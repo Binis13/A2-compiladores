@@ -2,6 +2,12 @@
 
 ## Visão Geral
 
+divisão de tarefas-
+
+Bernardo Albuquerque ramos - 1230119352
+
+joao pedro moreira canha - 1230113039
+
 Compilador para a linguagem **MiniLang**, implementado usando **ANTLR4** para análise léxica e sintática, e **Python 3** para análise semântica, interpretação e geração de código.
 
 ## Estrutura do Projeto
@@ -320,3 +326,4 @@ Para adicionar novas construções à linguagem:
 ## Licença
 
 Trabalho acadêmico - Universidade Federal
+
