@@ -1,0 +1,6 @@
+{
+  int x = 10;
+  bool y = true;
+  // Erro: tipo incompatível (int + bool)
+  print(x + y);
+}

@@ -1,0 +1,6 @@
+{
+  int x = 10;
+  // Erro: reatribuição a variável const
+  const int c = 5;
+  c = 10;
+}

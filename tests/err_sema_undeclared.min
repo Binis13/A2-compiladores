@@ -1,0 +1,4 @@
+{
+  // Erro: variável não declarada
+  print(variavel_inexistente);
+}

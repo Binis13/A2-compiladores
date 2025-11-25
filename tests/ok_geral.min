@@ -1,0 +1,38 @@
+{
+  const int N = 5;
+  int i;
+  int[] a = new int[N];
+
+  // Inicializa array
+  i = 0;
+  while (i < N) {
+    a[i] = i * i;
+    i = i + 1;
+  }
+
+  // Imprime valores
+  print(a[0], a[1], a[2], a[3], a[4]);
+
+  // Teste de sombra (shadowing)
+  {
+    int i = 100;
+    print(i);
+  }
+  print(i);
+
+  // Teste de if-else e operadores lógicos
+  bool ok = true;
+  if (ok && (a[2] <= 5)) {
+    print(42);
+  } else {
+    print(99);
+  }
+
+  // Teste de do-while
+  int j = 0;
+  do j = j + 2; while (j < 3);
+  print(j);
+
+  // Testes de operadores
+  print(true, false, !false, -42);
+}
