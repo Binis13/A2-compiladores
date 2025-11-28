@@ -2,11 +2,35 @@
 
 ## Visão Geral
 
-divisão de tarefas-
+Tarefas de Bernardo Albuquerque Ramos:
 
-Bernardo Albuquerque ramos - 1230119352
+Preparação do Ambiente
 
-joao pedro moreira canha - 1230113039
+Escrever a Gramática ANTLR4
+
+Gerar Lexer e Parser Automáticos
+
+Construção da AST Abstrata (Visitor)
+
+Impressão da AST
+
+Verificação Semântica
+
+Execução por Intérprete
+
+Geração de Código
+
+Interface de Linha de Comando
+
+Vídeo de Apresentação
+
+Tarefas de João Pedro Moreira Canha:
+
+README Completo
+
+Tutorial Passo a Passo do ANTLR4
+
+Criação dos Testes
 
 Compilador para a linguagem **MiniLang**, implementado usando **ANTLR4** para análise léxica e sintática, e **Python 3** para análise semântica, interpretação e geração de código.
 
@@ -326,4 +350,5 @@ Para adicionar novas construções à linguagem:
 ## Licença
 
 Trabalho acadêmico - Universidade Federal
+
 
