@@ -341,6 +341,9 @@ Para adicionar novas construções à linguagem:
    - `codegen.py` (geração de código)
    - `pretty.py` (impressão)
 
+## Demonstração em video
+https://youtu.be/EaXwU6JGpLY
+
 ## Referências
 
 - **ANTLR4**: https://www.antlr.org/
@@ -350,5 +353,6 @@ Para adicionar novas construções à linguagem:
 ## Licença
 
 Trabalho acadêmico - Universidade Federal
+
 
 
